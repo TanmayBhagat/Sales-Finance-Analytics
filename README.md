@@ -18,7 +18,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/4e7d2e79bccbfbf89bdb6df1dbd1a680f2b5f21c/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & _[Months](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/cf2cc7bee5c91a1b65af11584159d6c25daaec2c/p%26L%20statement%20by%20month.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/bc23737e323ba41aadb7bcd29b656ab242f10b44/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & _[Months](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/cf2cc7bee5c91a1b65af11584159d6c25daaec2c/p%26L%20statement%20by%20month.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/aaeb41742901180eeda3fd55739e3f9a7158f139/P%26L%20Statement%20by%20Markets.pdf)_
 
