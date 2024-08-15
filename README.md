@@ -36,7 +36,7 @@ Here's how you can update your GitHub README with the new reports:
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/aaeb41742901180eeda3fd55739e3f9a7158f139/P%26L%20Statement%20by%20Markets.pdf)_
 
-   **3.** Analyze the _[Gross Margin% by Quarter (Subzone) report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/c48b02b65dfaaa2e34d5c3240c8e87da02f59a06/Gross%20Margin%25%20by%20Quarters(sub_Zone).pdf_)_
+   **3.** Analyze the _[Gross Margin% by Quarter (Subzone) report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/49b9d6528a9e2a3209437fae0996d25cf2848660/Gross%20Margin%25%20by%20Quarters(sub_Zone).pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
