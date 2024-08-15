@@ -14,7 +14,7 @@ Here's how you can update your GitHub README with the new reports:
 
     **4.** Analyze the _[New product-2021 report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/c48b02b65dfaaa2e34d5c3240c8e87da02f59a06/new%20product%202021.pdf_)_
 
-    **5.** Generate a _[Top 10 products report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/c48b02b65dfaaa2e34d5c3240c8e87da02f59a06/Top%2010%20products.pdf_)_
+    **5.** Generate a _[Top 10 products report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/abecaabd9c78d62dc50f05128cf4a0cfb26effb7/Top%2010%20products.pdf)_
 
     **6.** Create _[Top 5 and Bottom 5 products report]((https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/b7c33be3d6ace84e4a814f3358225ac309531032/TOP5%20country%20-2021.pdf)))
 
