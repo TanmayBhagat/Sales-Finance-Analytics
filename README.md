@@ -12,13 +12,14 @@ Here's how you can update your GitHub README with the new reports:
 
     **3.** Create a _[Division level report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/eab196fc72ee45314b5ea8eed5abc2494394c48e/Division%20Level%20Report.pdf)_
 
-    **4.** Analyze the _[New product-2021 report](_)_
+    **4.** Analyze the _[New product-2021 report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/c48b02b65dfaaa2e34d5c3240c8e87da02f59a06/new%20product%202021.pdf_)_
 
-    **5.** Generate a _[Top 10 products report](_)_
+    **5.** Generate a _[Top 10 products report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/c48b02b65dfaaa2e34d5c3240c8e87da02f59a06/Top%2010%20products.pdf_)_
 
-    **6.** Create _[Top 5 and Bottom 5 products report](_)_
+    **6.** Create _[Top 5 and Bottom 5 products report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/c48b02b65dfaaa2e34d5c3240c8e87da02f59a06/TOP5%20%26%20BOTTOM%205.pdf)
 
-    **7.** Analyze _[Top 5 country netsale-2021 report](_)_
+
+    **7.** Analyze _[Top 5 country netsale-2021 report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/c48b02b65dfaaa2e34d5c3240c8e87da02f59a06/TOP5%20country%20-2021.pdf_)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -35,7 +36,7 @@ Here's how you can update your GitHub README with the new reports:
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/aaeb41742901180eeda3fd55739e3f9a7158f139/P%26L%20Statement%20by%20Markets.pdf)_
 
-   **3.** Analyze the _[Gross Margin% by Quarter (Subzone) report](_)_
+   **3.** Analyze the _[Gross Margin% by Quarter (Subzone) report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/c48b02b65dfaaa2e34d5c3240c8e87da02f59a06/Gross%20Margin%25%20by%20Quarters(sub_Zone).pdf_)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
