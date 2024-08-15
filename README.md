@@ -1,11 +1,24 @@
-## Sales Report :
+Here's how you can update your GitHub README with the new reports:
 
+---
+
+## Sales Report :
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/cdbdf805fe3f411596cf409cb7df49ecfae5d1f6/Customer%20Performance%20Report.pdf)
+    **1.** Create a _[customer performance report](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/cdbdf805fe3f411596cf409cb7df49ecfae5d1f6/Customer%20Performance%20Report.pdf)_
+  
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/bc23737e323ba41aadb7bcd29b656ab242f10b44/Market%20Performance%20vs%20Target%20Report.pdf)_
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/bc23737e323ba41aadb7bcd29b656ab242f10b44/Market%20Performance%20vs%20Target%20Report.pdf)
+    **3.** Create a _[Division level report](_)_
+
+    **4.** Analyze the _[New product-2021 report](_)_
+
+    **5.** Generate a _[Top 10 products report](_)_
+
+    **6.** Create _[Top 5 and Bottom 5 products report](_)_
+
+    **7.** Analyze _[Top 5 country netsale-2021 report](_)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,15 +31,17 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/bc23737e323ba41aadb7bcd29b656ab242f10b44/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & _[Months](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/cf2cc7bee5c91a1b65af11584159d6c25daaec2c/p%26L%20statement%20by%20month.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/bc23737e323ba41aadb7bcd29b656ab242f10b44/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/cf2cc7bee5c91a1b65af11584159d6c25daaec2c/p%26L%20statement%20by%20month.pdf)_ 
 
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/TanmayBhagat/Sales-Finance-Analytics/blob/aaeb41742901180eeda3fd55739e3f9a7158f139/P%26L%20Statement%20by%20Markets.pdf)_
 
+   **3.** Analyze the _[Gross Margin% by Quarter (Subzone) report](_)_
+
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods. Foundation for budgeting and forecasting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
 
 
 ## Technical & Soft Skills:
@@ -38,7 +53,10 @@
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Refined understanding of Sales & Finance Reports.
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Developing a systematic approach to devising a report-building plan.
+
+---
+
