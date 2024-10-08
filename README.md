@@ -61,3 +61,4 @@ Here's how you can update your GitHub README with the new reports:
 
 ---
 
+### 📂 My Portfolio: [Tanmay Bhagat's Portfolio](https://codebasics.io/portfolio/Tanmay-Bhagat)
